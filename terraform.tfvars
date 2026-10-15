@@ -16,8 +16,8 @@ asg_min_size         = 1
 asg_max_size         = 2
 asg_desired_capacity = 1
 
-blue_weight  = 50
-green_weight = 50
+blue_weight  = 100
+green_weight = 0
 
 tags = {
   Project   = "blue-green-deployment"
